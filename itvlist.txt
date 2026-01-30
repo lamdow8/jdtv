@@ -1,3 +1,5 @@
 央视频道,#genre#
+CCTV1,http://101.74.28.240:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 卫视频道,#genre#
+江苏卫视,http://125.42.150.99:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 其他频道,#genre#
