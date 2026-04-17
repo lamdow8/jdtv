@@ -1,3 +1,7 @@
 央视频道,#genre#
+CCTV13,http://125.42.148.181:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://125.42.148.181:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
+广东卫视,http://125.42.150.238:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 其他频道,#genre#
+金鹰卡通,http://125.42.148.181:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
