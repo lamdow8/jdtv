@@ -1,0 +1,6 @@
+CCTV11,http://1.197.249.204:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+云南卫视,http://1.197.249.204:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+四川卫视,http://1.197.249.204:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+安徽卫视,http://1.197.249.204:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+山东卫视,http://1.197.249.204:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+湖南卫视,http://1.197.249.204:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
