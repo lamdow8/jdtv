@@ -1,4 +1,3 @@
 央视频道,#genre#
 卫视频道,#genre#
 其他频道,#genre#
-卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
