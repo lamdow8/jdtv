@@ -1,3 +1,17 @@
 央视频道,#genre#
+CCTV1,http://125.93.74.27:9002/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://125.93.74.27:9002/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://125.93.74.27:9002/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://125.93.74.27:9002/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://125.93.74.27:9002/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://125.93.74.27:9002/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
+吉林卫视,http://125.93.74.27:9002/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://125.93.74.27:9002/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://125.93.74.27:9002/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://125.93.74.27:9002/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://125.93.74.27:9002/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://125.93.74.27:9002/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 其他频道,#genre#
+广东体育,http://125.93.74.27:9002/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://125.93.74.27:9002/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
